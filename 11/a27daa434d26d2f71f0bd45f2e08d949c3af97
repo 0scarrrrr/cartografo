@@ -1,0 +1,19 @@
+README.md
+  s_95aac868be3586::t_78691ad36179cd 1-48
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "11a27daa434d26d2f71f0bd45f2e08d949c3af97",
+  "prompts": {},
+  "sessions": {
+    "s_95aac868be3586": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "s_95aac868be3586",
+        "model": "unknown"
+      },
+      "human_author": "Oscar Lacueva <oscar.lacueva@glovoapp.com>"
+    }
+  }
+}
