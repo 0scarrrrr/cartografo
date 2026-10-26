@@ -17,10 +17,10 @@ Play it in **[Spanish](https://cartografo.app/es)**, **[English](https://cartogr
 
 ## Maps
 
-30 maps, each with its own games (map, capitals, flags, quiz):
+40 maps, each with its own games (map, capitals, flags, quiz):
 
 - **The world and every continent:** [world](https://cartografo.app/en/world), [Europe](https://cartografo.app/en/europe), [Asia](https://cartografo.app/en/asia), [Africa](https://cartografo.app/en/africa), [North America & Caribbean](https://cartografo.app/en/north-america-caribbean), [Central & South America](https://cartografo.app/en/central-south-america), [Oceania](https://cartografo.app/en/oceania).
-- **Provinces, states and regions of 22 countries:** [Spain](https://cartografo.app/es/provincias-de-espana) (provinces and [autonomous communities](https://cartografo.app/es/comunidades-autonomas-de-espana)), [Portugal](https://cartografo.app/pt/distritos-de-portugal), France, Italy, Germany, the Netherlands, Switzerland, Austria, Poland, [the United States](https://cartografo.app/en/us-states), Canada, Mexico, Cuba, Colombia, Venezuela, Ecuador, Peru, [Brazil](https://cartografo.app/pt/estados-do-brasil), Bolivia, Chile, Argentina and Uruguay.
+- **Provinces, states and regions of 32 countries:** [Spain](https://cartografo.app/es/provincias-de-espana) (provinces and [autonomous communities](https://cartografo.app/es/comunidades-autonomas-de-espana)), [Portugal](https://cartografo.app/pt/distritos-de-portugal), France, Italy, Germany, the Netherlands, Switzerland, Austria, Poland, [the United States](https://cartografo.app/en/us-states), Canada, Mexico, Cuba, the Dominican Republic, Guatemala, Honduras, El Salvador, Nicaragua, Costa Rica, Colombia, Venezuela, Ecuador, Peru, [Brazil](https://cartografo.app/pt/estados-do-brasil), Bolivia, Paraguay, Chile, Argentina, Uruguay, [Japan](https://cartografo.app/en/prefectures-of-japan), [China](https://cartografo.app/en/provinces-of-china) and [Australia](https://cartografo.app/en/states-of-australia).
 
 All maps: [cartografo.app/en/maps](https://cartografo.app/en/maps).
 
