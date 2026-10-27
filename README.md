@@ -4,7 +4,7 @@
 
 **[cartografo.app](https://cartografo.app)** is a free geography game that runs in the browser, on phone or computer, with no download and no sign-up. Find countries, capitals and flags on the map against the clock, or take a quiz on rivers, mountains and population. A game takes about two minutes.
 
-Play it in **[Spanish](https://cartografo.app/es)**, **[English](https://cartografo.app/en)** or **[Portuguese](https://cartografo.app/pt)**.
+Play it in **[Spanish](https://cartografo.app/es)**, **[English](https://cartografo.app/en)**, **[Portuguese](https://cartografo.app/pt)**, **[French](https://cartografo.app/fr)**, **[German](https://cartografo.app/de)** or **[Italian](https://cartografo.app/it)**.
 
 ![Playing Countries of Europe](images/gameplay.jpg)
 
@@ -20,7 +20,7 @@ Play it in **[Spanish](https://cartografo.app/es)**, **[English](https://cartogr
 40 maps, each with its own games (map, capitals, flags, quiz):
 
 - **The world and every continent:** [world](https://cartografo.app/en/world), [Europe](https://cartografo.app/en/europe), [Asia](https://cartografo.app/en/asia), [Africa](https://cartografo.app/en/africa), [North America & Caribbean](https://cartografo.app/en/north-america-caribbean), [Central & South America](https://cartografo.app/en/central-south-america), [Oceania](https://cartografo.app/en/oceania).
-- **Provinces, states and regions of 32 countries:** [Spain](https://cartografo.app/es/provincias-de-espana) (provinces and [autonomous communities](https://cartografo.app/es/comunidades-autonomas-de-espana)), [Portugal](https://cartografo.app/pt/distritos-de-portugal), France, Italy, Germany, the Netherlands, Switzerland, Austria, Poland, [the United States](https://cartografo.app/en/us-states), Canada, Mexico, Cuba, the Dominican Republic, Guatemala, Honduras, El Salvador, Nicaragua, Costa Rica, Colombia, Venezuela, Ecuador, Peru, [Brazil](https://cartografo.app/pt/estados-do-brasil), Bolivia, Paraguay, Chile, Argentina, Uruguay, [Japan](https://cartografo.app/en/prefectures-of-japan), [China](https://cartografo.app/en/provinces-of-china) and [Australia](https://cartografo.app/en/states-of-australia).
+- **Provinces, states and regions of 32 countries:** [Spain](https://cartografo.app/es/provincias-de-espana) (provinces and [autonomous communities](https://cartografo.app/es/comunidades-autonomas-de-espana)), [Portugal](https://cartografo.app/pt/distritos-de-portugal), [France](https://cartografo.app/fr/regions-de-france), [Italy](https://cartografo.app/it/regioni-d-italia), [Germany](https://cartografo.app/de/bundeslaender-deutschlands), the Netherlands, Switzerland, Austria, Poland, [the United States](https://cartografo.app/en/us-states), Canada, Mexico, Cuba, the Dominican Republic, Guatemala, Honduras, El Salvador, Nicaragua, Costa Rica, Colombia, Venezuela, Ecuador, Peru, [Brazil](https://cartografo.app/pt/estados-do-brasil), Bolivia, Paraguay, Chile, Argentina, Uruguay, [Japan](https://cartografo.app/en/prefectures-of-japan), [China](https://cartografo.app/en/provinces-of-china) and [Australia](https://cartografo.app/en/states-of-australia).
 
 All maps: [cartografo.app/en/maps](https://cartografo.app/en/maps).
 
@@ -46,3 +46,9 @@ A static Next.js site with live rooms on Cloudflare (Workers and Durable Objects
 **Español:** Cartógrafo es un juego de geografía gratis para retar a tus amigos en directo: encuentra países, capitales y banderas en el mapa en partidas de dos minutos. [Jugar en cartografo.app/es](https://cartografo.app/es).
 
 **Português:** O Cartógrafo é um jogo de geografia grátis para desafiar os amigos ao vivo: encontre países, capitais e bandeiras no mapa em partidas de dois minutos. [Jogar em cartografo.app/pt](https://cartografo.app/pt).
+
+**Français :** Cartógrafo est un jeu de géographie gratuit pour défier tes amis en direct : trouve des pays, des capitales et des drapeaux sur la carte en parties de deux minutes. [Jouer sur cartografo.app/fr](https://cartografo.app/fr).
+
+**Deutsch:** Cartógrafo ist ein kostenloses Geografie-Spiel für Live-Duelle mit Freunden: Finde Länder, Hauptstädte und Flaggen auf der Karte, in Runden von zwei Minuten. [Spielen auf cartografo.app/de](https://cartografo.app/de).
+
+**Italiano:** Cartógrafo è un gioco di geografia gratuito per sfidare gli amici in diretta: trova paesi, capitali e bandiere sulla mappa in partite da due minuti. [Gioca su cartografo.app/it](https://cartografo.app/it).
