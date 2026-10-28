@@ -2,7 +2,7 @@
 
 [![Cartógrafo](images/cartografo.png)](https://cartografo.app)
 
-**[cartografo.app](https://cartografo.app)** is a free geography game that runs in the browser, on phone or computer, with no download and no sign-up. Find countries, capitals and flags on the map against the clock, or take a quiz on rivers, mountains and population. A game takes about two minutes.
+**[cartografo.app](https://cartografo.app)** is a free multiplayer geography game that runs in the browser, on phone or computer, with no download and no sign-up. Find countries, capitals and flags on the map against the clock, or take a quiz on rivers, mountains and population. A game takes about two minutes.
 
 Play it in **[Spanish](https://cartografo.app/es)**, **[English](https://cartografo.app/en)**, **[Portuguese](https://cartografo.app/pt)**, **[French](https://cartografo.app/fr)**, **[German](https://cartografo.app/de)** or **[Italian](https://cartografo.app/it)**.
 
@@ -10,17 +10,17 @@ Play it in **[Spanish](https://cartografo.app/es)**, **[English](https://cartogr
 
 ## Ways to play
 
-- **Live with friends:** open a room, send the link (on WhatsApp, say) and up to 12 people play the same map at the same time, each on their own phone. Most points wins.
-- **Challenge link:** play solo and send your score; your friend plays exactly the same game, in the same order, whenever they can.
+- **Live with friends:** open a room, send the link (on WhatsApp, say) and up to 12 people play the same map at the same time, each on their own phone. You see live how far ahead or behind the leader you are, and a room scoreboard keeps the wins and points across rounds.
+- **Challenge:** play a game and send the link; your friends play exactly the same pieces, in the same order, whenever they can. Only each player's first try counts, and the ranking stays on the link. [How multiplayer works](https://cartografo.app/en/multiplayer-geography-game).
 - **Daily challenge:** the same map and order for everyone, once a day, with a [worldwide leaderboard](https://cartografo.app/en/leaderboard).
 - **Solo:** beat your record. Each piece is worth up to 100 points: be quick, don't miss.
 
 ## Maps
 
-40 maps, each with its own games (map, capitals, flags, quiz):
+51 maps, each with its own games (map, capitals, flags, quiz):
 
 - **The world and every continent:** [world](https://cartografo.app/en/world), [Europe](https://cartografo.app/en/europe), [Asia](https://cartografo.app/en/asia), [Africa](https://cartografo.app/en/africa), [North America & Caribbean](https://cartografo.app/en/north-america-caribbean), [Central & South America](https://cartografo.app/en/central-south-america), [Oceania](https://cartografo.app/en/oceania).
-- **Provinces, states and regions of 32 countries:** [Spain](https://cartografo.app/es/provincias-de-espana) (provinces and [autonomous communities](https://cartografo.app/es/comunidades-autonomas-de-espana)), [Portugal](https://cartografo.app/pt/distritos-de-portugal), [France](https://cartografo.app/fr/regions-de-france), [Italy](https://cartografo.app/it/regioni-d-italia), [Germany](https://cartografo.app/de/bundeslaender-deutschlands), the Netherlands, Switzerland, Austria, Poland, [the United States](https://cartografo.app/en/us-states), Canada, Mexico, Cuba, the Dominican Republic, Guatemala, Honduras, El Salvador, Nicaragua, Costa Rica, Colombia, Venezuela, Ecuador, Peru, [Brazil](https://cartografo.app/pt/estados-do-brasil), Bolivia, Paraguay, Chile, Argentina, Uruguay, [Japan](https://cartografo.app/en/prefectures-of-japan), [China](https://cartografo.app/en/provinces-of-china) and [Australia](https://cartografo.app/en/states-of-australia).
+- **Provinces, states and regions of 43 countries:** [Spain](https://cartografo.app/es/provincias-de-espana) (provinces and [autonomous communities](https://cartografo.app/es/comunidades-autonomas-de-espana)), [Portugal](https://cartografo.app/pt/distritos-de-portugal), [France](https://cartografo.app/fr/regions-de-france), [Italy](https://cartografo.app/it/regioni-d-italia), [Germany](https://cartografo.app/de/bundeslaender-deutschlands), the Netherlands, Belgium, Switzerland, Austria, Poland, Czechia, Sweden, Romania, Greece, [the United States](https://cartografo.app/en/us-states), Canada, Mexico, Cuba, the Dominican Republic, Guatemala, Honduras, El Salvador, Nicaragua, Costa Rica, Colombia, Venezuela, Ecuador, Peru, [Brazil](https://cartografo.app/pt/estados-do-brasil), Bolivia, Paraguay, Chile, Argentina, Uruguay, [India](https://cartografo.app/en/states-of-india), Turkey, Saudi Arabia, Thailand, South Korea, [Japan](https://cartografo.app/en/prefectures-of-japan), [China](https://cartografo.app/en/provinces-of-china), [Australia](https://cartografo.app/en/states-of-australia) and New Zealand.
 
 All maps: [cartografo.app/en/maps](https://cartografo.app/en/maps).
 
