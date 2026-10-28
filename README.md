@@ -2,7 +2,7 @@
 
 [![Cartógrafo](images/cartografo.png)](https://cartografo.app)
 
-**[cartografo.app](https://cartografo.app)** is a free multiplayer geography game that runs in the browser, on phone or computer, with no download and no sign-up. Find countries, capitals and flags on the map against the clock, or take a quiz on rivers, mountains and population. A game takes about two minutes.
+**[cartografo.app](https://cartografo.app)** is a free multiplayer geography game that runs in the browser, on phone or computer, with no download and no sign-up. Find countries, capitals and flags on the map against the clock, take a quiz on rivers, mountains and population, or travel back to Europe in 1914 or 1989. A game takes about two minutes.
 
 Play it in **[Spanish](https://cartografo.app/es)**, **[English](https://cartografo.app/en)**, **[Portuguese](https://cartografo.app/pt)**, **[French](https://cartografo.app/fr)**, **[German](https://cartografo.app/de)** or **[Italian](https://cartografo.app/it)**.
 
@@ -17,12 +17,25 @@ Play it in **[Spanish](https://cartografo.app/es)**, **[English](https://cartogr
 
 ## Maps
 
-51 maps, each with its own games (map, capitals, flags, quiz):
+73 maps, each with its own games (map, capitals, flags, quiz):
 
 - **The world and every continent:** [world](https://cartografo.app/en/world), [Europe](https://cartografo.app/en/europe), [Asia](https://cartografo.app/en/asia), [Africa](https://cartografo.app/en/africa), [North America & Caribbean](https://cartografo.app/en/north-america-caribbean), [Central & South America](https://cartografo.app/en/central-south-america), [Oceania](https://cartografo.app/en/oceania).
-- **Provinces, states and regions of 43 countries:** [Spain](https://cartografo.app/es/provincias-de-espana) (provinces and [autonomous communities](https://cartografo.app/es/comunidades-autonomas-de-espana)), [Portugal](https://cartografo.app/pt/distritos-de-portugal), [France](https://cartografo.app/fr/regions-de-france), [Italy](https://cartografo.app/it/regioni-d-italia), [Germany](https://cartografo.app/de/bundeslaender-deutschlands), the Netherlands, Belgium, Switzerland, Austria, Poland, Czechia, Sweden, Romania, Greece, [the United States](https://cartografo.app/en/us-states), Canada, Mexico, Cuba, the Dominican Republic, Guatemala, Honduras, El Salvador, Nicaragua, Costa Rica, Colombia, Venezuela, Ecuador, Peru, [Brazil](https://cartografo.app/pt/estados-do-brasil), Bolivia, Paraguay, Chile, Argentina, Uruguay, [India](https://cartografo.app/en/states-of-india), Turkey, Saudi Arabia, Thailand, South Korea, [Japan](https://cartografo.app/en/prefectures-of-japan), [China](https://cartografo.app/en/provinces-of-china), [Australia](https://cartografo.app/en/states-of-australia) and New Zealand.
+- **Provinces, states and regions of 60 countries.** Europe: [Spain](https://cartografo.app/es/provincias-de-espana) (provinces and [autonomous communities](https://cartografo.app/es/comunidades-autonomas-de-espana)), [Portugal](https://cartografo.app/pt/distritos-de-portugal), [France](https://cartografo.app/fr/regions-de-france), [Italy](https://cartografo.app/it/regioni-d-italia), [Germany](https://cartografo.app/de/bundeslaender-deutschlands), the Netherlands, Belgium, Switzerland, Austria, Poland, Czechia, Ireland, Sweden, Finland, Estonia, Lithuania, Hungary, Croatia, Serbia, Romania, Bulgaria, Greece and Ukraine. The Americas: [the United States](https://cartografo.app/en/us-states), Canada, Mexico, Cuba, the Dominican Republic, Guatemala, Honduras, El Salvador, Nicaragua, Costa Rica, Colombia, Venezuela, Ecuador, Peru, [Brazil](https://cartografo.app/pt/estados-do-brasil), Bolivia, Paraguay, Chile, Argentina and Uruguay. Asia: Turkey, Saudi Arabia, Iraq, Iran, Uzbekistan, Afghanistan, Mongolia, [India](https://cartografo.app/en/states-of-india), Myanmar, Thailand, Malaysia, the Philippines, [China](https://cartografo.app/en/provinces-of-china), South Korea and [Japan](https://cartografo.app/en/prefectures-of-japan). Oceania: [Australia](https://cartografo.app/en/states-of-australia) and New Zealand.
+- **Historical maps of Europe:** its countries as they were at five moments, drawn on today's coastline (see below).
 
 All maps: [cartografo.app/en/maps](https://cartografo.app/en/maps).
+
+## Historical maps
+
+Could you find Austria-Hungary, Eastern Rumelia or the Free City of Danzig? Five maps of Europe's countries as they were, each with a countries game, a capitals game of the time (Kristiania, Constantinople, Kaunas, Bonn…) and a quiz; 1914 and 1989 also have a flags game.
+
+- **[1880](https://cartografo.app/en/europe-1880):** after the Congress of Berlin. The Ottoman Empire still reaches the Adriatic; Bulgaria and Eastern Rumelia; Bosnia occupied by Austria-Hungary.
+- **[1914](https://cartografo.app/en/europe-1914):** on the eve of the First World War. Four empires, and no Poland.
+- **[1938](https://cartografo.app/en/europe-1938):** between the wars. Danzig, the Polish Corridor, Czechoslovakia whole, Lithuania with Kaunas as capital.
+- **[1945](https://cartografo.app/en/europe-1945):** the end of the Second World War. Germany in four occupation zones; Poland moved west.
+- **[1989](https://cartografo.app/en/europe-1989):** the end of the Cold War. Two Germanys, the Soviet Union, Yugoslavia, Czechoslovakia.
+
+The borders are built from today's countries and regions where the old border follows them, and from lines drawn by hand where it does not, good to about 10 km; every map is checked against a list of cities that must fall in the right state.
 
 ## Made for
 
@@ -39,7 +52,7 @@ Ideas, bugs or a map you would like to see: **hola@cartografo.app**.
 
 ## Under the hood
 
-A static Next.js site with live rooms on Cloudflare (Workers and Durable Objects). Maps from Natural Earth and Spain's IGN, capitals from Wikidata, flags from flag-icons and Wikimedia Commons. The game's source is not public.
+A static Next.js site with live rooms on Cloudflare (Workers and Durable Objects). Maps from Natural Earth and Spain's IGN (the historical ones too, cut along the borders of the time), capitals from Wikidata, flags from flag-icons and Wikimedia Commons; the historical flags are drawn for the game. The game's source is not public.
 
 ---
 
