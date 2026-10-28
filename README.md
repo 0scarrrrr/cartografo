@@ -2,7 +2,7 @@
 
 [![Cartógrafo](images/cartografo.png)](https://cartografo.app)
 
-**[cartografo.app](https://cartografo.app)** is a free multiplayer geography game that runs in the browser, on phone or computer, with no download and no sign-up. Find countries, capitals and flags on the map against the clock, take a quiz on rivers, mountains and population, or travel back to Europe in 1914 or Africa under the colonial empires. A game takes about two minutes.
+**[cartografo.app](https://cartografo.app)** is a free multiplayer geography game that runs in the browser, on phone or computer, with no download and no sign-up. Find countries, capitals and flags on the map against the clock, take a quiz on rivers, mountains and population, or travel back to Europe in 1914, Africa under the colonial empires or Asia on the eve of the First World War. A game takes about two minutes.
 
 Play it in **[Spanish](https://cartografo.app/es)**, **[English](https://cartografo.app/en)**, **[Portuguese](https://cartografo.app/pt)**, **[French](https://cartografo.app/fr)**, **[German](https://cartografo.app/de)** or **[Italian](https://cartografo.app/it)**.
 
@@ -17,17 +17,17 @@ Play it in **[Spanish](https://cartografo.app/es)**, **[English](https://cartogr
 
 ## Maps
 
-74 maps, each with its own games (map, capitals, flags, quiz):
+76 maps, each with its own games (map, capitals, flags, quiz):
 
 - **The world and every continent:** [world](https://cartografo.app/en/world), [Europe](https://cartografo.app/en/europe), [Asia](https://cartografo.app/en/asia), [Africa](https://cartografo.app/en/africa), [North America & Caribbean](https://cartografo.app/en/north-america-caribbean), [Central & South America](https://cartografo.app/en/central-south-america), [Oceania](https://cartografo.app/en/oceania).
 - **Provinces, states and regions of 60 countries.** Europe: [Spain](https://cartografo.app/es/provincias-de-espana) (provinces and [autonomous communities](https://cartografo.app/es/comunidades-autonomas-de-espana)), [Portugal](https://cartografo.app/pt/distritos-de-portugal), [France](https://cartografo.app/fr/regions-de-france), [Italy](https://cartografo.app/it/regioni-d-italia), [Germany](https://cartografo.app/de/bundeslaender-deutschlands), the Netherlands, Belgium, Switzerland, Austria, Poland, Czechia, Ireland, Sweden, Finland, Estonia, Lithuania, Hungary, Croatia, Serbia, Romania, Bulgaria, Greece and Ukraine. The Americas: [the United States](https://cartografo.app/en/us-states), Canada, Mexico, Cuba, the Dominican Republic, Guatemala, Honduras, El Salvador, Nicaragua, Costa Rica, Colombia, Venezuela, Ecuador, Peru, [Brazil](https://cartografo.app/pt/estados-do-brasil), Bolivia, Paraguay, Chile, Argentina and Uruguay. Asia: Turkey, Saudi Arabia, Iraq, Iran, Uzbekistan, Afghanistan, Mongolia, [India](https://cartografo.app/en/states-of-india), Myanmar, Thailand, Malaysia, the Philippines, [China](https://cartografo.app/en/provinces-of-china), South Korea and [Japan](https://cartografo.app/en/prefectures-of-japan). Oceania: [Australia](https://cartografo.app/en/states-of-australia) and New Zealand.
-- **Historical maps:** Europe at five moments and colonial Africa in 1914, drawn on today's coastline (see below).
+- **Historical maps:** Europe at five moments, Africa in 1914 and 1960 and Asia in 1914, drawn on today's coastline (see below).
 
 All maps: [cartografo.app/en/maps](https://cartografo.app/en/maps).
 
 ## Historical maps
 
-Could you find Austria-Hungary, Eastern Rumelia or the Free City of Danzig? Six maps of the countries as they were, each with a countries game, a capitals game of the time (Kristiania, Constantinople, Kaunas, Bonn, Boma…) and a quiz; Europe in 1914 and 1989 also have a flags game. A button draws today's borders over the old ones.
+Could you find Austria-Hungary, Eastern Rumelia or the Free City of Danzig? Eight maps of the countries as they were, each with a countries game, a capitals game of the time (Kristiania, Constantinople, Kaunas, Bonn, Boma, Urga…) and a quiz; Europe in 1914 and 1989 also have a flags game. A button draws today's borders over the old ones.
 
 - **[1880](https://cartografo.app/en/europe-1880):** after the Congress of Berlin. The Ottoman Empire still reaches the Adriatic; Bulgaria and Eastern Rumelia; Bosnia occupied by Austria-Hungary.
 - **[1914](https://cartografo.app/en/europe-1914):** on the eve of the First World War. Four empires, and no Poland.
@@ -35,6 +35,8 @@ Could you find Austria-Hungary, Eastern Rumelia or the Free City of Danzig? Six 
 - **[1945](https://cartografo.app/en/europe-1945):** the end of the Second World War. Germany in four occupation zones; Poland moved west.
 - **[1989](https://cartografo.app/en/europe-1989):** the end of the Cold War. Two Germanys, the Soviet Union, Yugoslavia, Czechoslovakia.
 - **[Africa in 1914](https://cartografo.app/en/africa-1914):** the colonial partition. French West Africa, the Belgian Congo, German East Africa, Kamerun; only Ethiopia and Liberia independent.
+- **[Africa in 1960](https://cartografo.app/en/africa-1960):** the year of Africa. Seventeen new countries in a single year; Algeria still French, Rhodesia and Nyasaland a federation.
+- **[Asia in 1914](https://cartografo.app/en/asia-1914):** on the eve of the First World War. British India with Burma, the Ottoman Empire down to Mecca and Yemen, Nejd and Jabal Shammar before Saudi Arabia, Japan with Korea and Karafuto, Tibet and Outer Mongolia breaking away from China.
 
 The borders are built from today's countries and regions where the old border follows them, and from lines drawn by hand where it does not, good to about 10 km; every map is checked against a list of cities that must fall in the right state.
 
