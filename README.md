@@ -12,7 +12,7 @@ Play it in **[Spanish](https://cartografo.app/es)**, **[English](https://cartogr
 
 - **Live with friends:** open a room, send the link (on WhatsApp, say) and up to 12 people play the same map at the same time, each on their own phone. You see live how far ahead or behind the leader you are, and a room scoreboard keeps the wins and points across rounds.
 - **Challenge:** play a game and send the link; your friends play exactly the same pieces, in the same order, whenever they can. Only each player's first try counts, and the ranking stays on the link. [How multiplayer works](https://cartografo.app/en/multiplayer-geography-game).
-- **Daily challenge:** the same map and order for everyone, once a day, with a [worldwide leaderboard](https://cartografo.app/en/leaderboard).
+- **Map of the day:** the same map and order for everyone, once a day, with a [worldwide leaderboard](https://cartografo.app/en/leaderboard).
 - **Solo:** beat your record. Each piece is worth up to 100 points: be quick, don't miss.
 
 ## Maps
