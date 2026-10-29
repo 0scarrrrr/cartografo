@@ -1,0 +1,19 @@
+README.md
+  s_7114ff22fcd4a7::t_7b18e717829b47 20,23
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "6f03066d8add1b7b38f6d4be9ffdcbe680cd752a",
+  "prompts": {},
+  "sessions": {
+    "s_7114ff22fcd4a7": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "s_7114ff22fcd4a7",
+        "model": "unknown"
+      },
+      "human_author": "Oscar Lacueva <oscar.lacueva@glovoapp.com>"
+    }
+  }
+}
