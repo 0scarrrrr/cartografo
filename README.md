@@ -42,7 +42,7 @@ Could you find Austria-Hungary, Eastern Rumelia or the Free City of Danzig? Twel
 - **[Latin America in 1810](https://cartografo.app/en/latin-america-1810):** on the eve of independence. The viceroyalties of New Spain, New Granada, Peru and the Río de la Plata, Portuguese Brazil, and Haiti, already free.
 - **[Latin America in 1825](https://cartografo.app/en/latin-america-1825):** the new republics. Gran Colombia, the Federal Republic of Central America, Bolivia with its Pacific coast, and Uruguay as Brazil's Cisplatine province.
 
-The borders are built from today's countries and regions where the old border follows them, and from lines drawn by hand where it does not, good to about 10 km; every map is checked against a list of cities that must fall in the right state.
+The borders are built from today's countries and regions where the old border follows them, and from lines drawn by hand where it does not, good to about 10 km (colonial Latin America's inland borders, which only existed on paper, are approximate); every map is checked against a list of cities that must fall in the right state.
 
 ## Made for
 
